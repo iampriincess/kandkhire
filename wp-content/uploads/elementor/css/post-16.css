@@ -1,0 +1,13 @@
+body.elementor-kit-16{color:#1779BA;font-family:"Roboto", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;}body.elementor-kit-16 button,body.elementor-kit-16 input[type="button"],body.elementor-kit-16 input[type="submit"],body.elementor-kit-16 .elementor-button{font-family:"Roboto", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;font-size:15px;font-weight:400;color:#FFFFFF;background-color:#282828;}/* Start custom CSS */.entry-header{ display: none; }
+.no-bottom {
+    margin-bottom: 0 !important;
+}
+
+.no-wrap .elementor-heading-title,
+.no-wrap .elementor-heading-title span {
+    white-space: nowrap !important;
+}
+
+.elementor-nav-menu--main ul li:hover {
+    background: #3C39A7;
+}/* End custom CSS */
